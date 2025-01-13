@@ -25,7 +25,7 @@ The central hub of the dashboard, where users can navigate to different analytic
 - A player-versus-player analysis module where users can compare specific batsmen and bowlers.
 - Provides detailed stats like balls played, runs scored, boundaries hit, wickets taken, and strike rate for each matchup.
 - Filter by season to explore historical player performances.
-![image](Images/Capture4.JPG)
+![image](Images/Capture3.JPG)
 
 ### 4. **IPL Overview**
 - A holistic view of IPL data, including:
@@ -35,7 +35,7 @@ The central hub of the dashboard, where users can navigate to different analytic
   - Seasonal averages for runs, sixes, wickets, and boundaries.
 ![image](Images/Capture1.JPG)
 
-![image](Images/Capture2.JPG)
+![image](Images/Capture.2JPG.JPG)
 
 
 ## Technologies Used
