@@ -48,5 +48,27 @@ The central hub of the dashboard, where users can navigate to different analytic
 - Add predictive analytics for upcoming IPL seasons.
 - Incorporate additional datasets for deeper insights, such as audience engagement metrics.
 
+## Steps to Run the Report
 
+### **Step 1: Clone or Download the Repository**
+1. Clone the repository using:
+   ```bash
+   git clone (https://github.com/MitaliMalusare/IPL_DASHBOARD.git)
+   ```
+---
+
+### **Step 2: Install Power BI Desktop**
+- Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/) installed on your system. You can download it for free from the official website.
+---
+
+### **Step 3: Open the `.pbix` File**
+1. Launch Power BI Desktop.
+2. Open the file IPL_Dashboard.pbix
+---
+
+### **Step 4: Explore the Report**
+- Use the interactive visualizations and slicers to analyze the churn data.
+- Navigate between pages in the report to explore different insights.
+
+---
 For any queries or suggestions, feel free to reach out!!
