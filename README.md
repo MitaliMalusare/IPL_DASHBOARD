@@ -12,17 +12,20 @@ The central hub of the dashboard, where users can navigate to different analytic
 - **Team Profile**
 - **Player Profile**
 - **IPL Overview**
+![image](Images/Capture.JPG)
 
 
 ### 2. **Team Profile**
 - Displays team-specific statistics such as matches played, wins, and performance by stadiums.
 - Highlights top-performing batsmen and bowlers for each selected team and season.
 - Allows filtering by year to analyze team trends over different IPL seasons.
+![image](Images/Capture4.JPG)
 
 ### 3. **Player Profile**
 - A player-versus-player analysis module where users can compare specific batsmen and bowlers.
 - Provides detailed stats like balls played, runs scored, boundaries hit, wickets taken, and strike rate for each matchup.
 - Filter by season to explore historical player performances.
+![image](Images/Capture4.JPG)
 
 ### 4. **IPL Overview**
 - A holistic view of IPL data, including:
@@ -30,6 +33,10 @@ The central hub of the dashboard, where users can navigate to different analytic
   - Season-wise qualifying teams for playoffs.
   - Matches played per stadium and umpire statistics.
   - Seasonal averages for runs, sixes, wickets, and boundaries.
+![image](Images/Capture1.JPG)
+
+![image](Images/Capture2.JPG)
+
 
 ## Technologies Used
 - **Power BI Desktop**: For creating interactive dashboards and visualizations.
